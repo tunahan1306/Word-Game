@@ -12,7 +12,7 @@ import GamePages from "./pages/GamePages";
 import PuanPages from "./pages/PuanPages";
 
 // Github
-const API_KEY = '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';
+const API_KEY = 'GİTHUB_APİ_KEY';
 const URL = 'https://api.github.com/repos/tunahan1306/Turkce-Kelimeler/contents/turkce_kelime_listesi.txt';
 
 //Navigation
