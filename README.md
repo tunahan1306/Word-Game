@@ -64,7 +64,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Tunahan Çakır - info@tunahancakir.com - [http://tunahancakir.com](http://tunahancakir.com/home)
+Tunahan Çakır - info@tunahancakir.com - [http://tunahancakir.com](http://tunahancakir.com)
 
 Project Link: [https://github.com/tunahan1306/Word-Game](https://github.com/tunahan1306/Word-Game)
 
